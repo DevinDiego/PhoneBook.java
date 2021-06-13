@@ -6,3 +6,5 @@ The main dialog (scene) has two menu bar items (File | Edit).
 File: Add a new Phone Book and Exit.
 Edit: Add, Modify, and Delete.
 Alert dialogs are used for improper input, or if the table is empty.
+
+![](PhoneBook.png)
